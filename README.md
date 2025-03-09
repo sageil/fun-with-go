@@ -1,2 +1,2 @@
 # go-exercises
-Placeholder for team's go exercises
+Fun projects to help learn Google's Golang
